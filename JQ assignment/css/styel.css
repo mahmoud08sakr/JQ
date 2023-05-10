@@ -1,0 +1,78 @@
+* {
+    margin-bottom: 0;
+}
+
+#party-section {
+    background-image: url(/css/images/photo-1429962714451-bb934ecdc4ec.avif);
+    background-position: center;
+    background-size: cover;
+    height: 80vh;
+}
+
+.imagee {
+    z-index: -1;
+}
+
+.layer {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 0, 0, 0.5);
+}
+
+.content {
+    cursor: pointer;
+    width: 80%;
+    background-color: rgba(214, 46, 51, 0.6);
+    ;
+
+}
+
+.party-tabs {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+#join-us {
+    background-image: url(/css/images/photo-1455849318743-b2233052fcff.avif);
+    background-position: center;
+    background-size: cover;
+    height: 50vh;
+    margin-bottom: 100px;
+
+}
+
+.div-border {
+    border: solid white 2px;
+    width: 250px;
+    height: 250px;
+}
+i{
+    cursor: pointer;
+}
+
+a:hover{
+color: black;
+}
+
+.menu-button{
+    z-index: 999;
+}
+.links{
+    width: 250px;
+    height: 100vh;
+    background-color: #414658;
+    z-index: 99999;
+}
+a{
+    text-decoration: none;
+    font-size: 2rem;
+}
+.links-group{
+    z-index: 999999;
+}
+.content p{
+    background-color: gray;
+}
+.slide{
+    display: none;
+}
